@@ -1,5 +1,5 @@
 {
-  "name": "git-publish-sample",
+  "name": "publish-sample",
   "version": "0.1.3",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
@@ -49,6 +49,7 @@
   "homepage": "https://github.com/ryoya-wake/publish-sample#readme",
   "workspaces": [
     "packages\\sample-a",
-    "packages\\sample-b"
+    "packages\\sample-b",
+    "sample-a"
   ]
 }
