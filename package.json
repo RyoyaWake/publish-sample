@@ -1,5 +1,5 @@
 {
-  "name": "@ryoya-wake/publish-sample",
+  "name": "publish-sample",
   "version": "0.1.2",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
