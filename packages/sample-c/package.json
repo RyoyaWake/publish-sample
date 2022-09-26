@@ -1,5 +1,5 @@
 {
-  "name": "@r-wake/sample-c",
+  "name": "sample-c",
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
