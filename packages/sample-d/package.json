@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RyoyaWake/publish-sample.git",
+    "url": "git+https://github.com/ryoya-wake/publish-sample.git",
     "directory": "packages/sample-d"
   },
   "publishConfig": {
@@ -21,7 +21,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RyoyaWake/publish-sample/issues"
+    "url": "https://github.com/ryoya-wake/publish-sample/issues"
   },
-  "homepage": "https://github.com/RyoyaWake/publish-sample#readme"
+  "homepage": "https://github.com/ryoya-wake/publish-sample#readme"
 }
