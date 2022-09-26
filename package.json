@@ -1,6 +1,6 @@
 {
   "name": "git-publish-sample",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -39,14 +39,14 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RyoyaWake/publish-sample.git"
+    "url": "git+https://github.com/ryoya-wake/publish-sample.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RyoyaWake/publish-sample/issues"
+    "url": "https://github.com/ryoya-wake/publish-sample/issues"
   },
-  "homepage": "https://github.com/RyoyaWake/publish-sample#readme",
+  "homepage": "https://github.com/ryoya-wake/publish-sample#readme",
   "workspaces": [
     "packages\\sample-a",
     "packages\\sample-b"
