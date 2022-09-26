@@ -1,5 +1,5 @@
 {
-  "name": "publish-sample",
+  "name": "publish-react-sample",
   "version": "0.1.0",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
